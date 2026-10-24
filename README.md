@@ -3,7 +3,7 @@
 ## 💫 About Me
 
 ### Digital Profile to Create AI Content
-#### I’m currently working on **OpenAI,Gemini,Grok,Claude,Llama,DeepSeek,Qwen**
+#### I’m currently working on **OpenAI, Gemini, Grok, Claude, Llama, DeepSeek, Qwen...**
 
 ### **Overview**
 
