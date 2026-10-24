@@ -1,8 +1,8 @@
-# Hello world 👋, I'm julioaranajr
+# Hello world 👋, I'm julioaranajr-digital
 
 ## 💫 About Me
 
-### PROJECT MANAGER | CLOUD/INFRASTRUCTURE ENGINEER
+### Digital Profile to Create AI Content
 
 ### **Overview**
 
@@ -90,7 +90,7 @@
 - 😴 I am busy with Cloud Systems Engineering
 - 💻 I am building my personal portafolio **[julioarana-wix-site](https://julioaranajr.wixsite.com/index)**, on the side
 - 👩‍💻 I am learning full stack development from Roadmap.sh
-- 🔭 I’m currently working on **Score-it**(An innovative Social Sport Platform) and **TravelApi**(A Travel API that can help you plan your next trip)
+- 🔭 I’m currently working on **Claude-AI**(Claude is a next generation AI assistant built by Anthropic)
 - 🌱 I’m learning Web technologies, Frontend, Backend, Python.
 - 👯 I’m looking to collaborate on Open source projects, Hackathon and startups
 - 🤔 I’m looking for help with Funding
@@ -98,11 +98,3 @@
 - 📫 How to reach me: You can reach me via my email or my social platforms
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Not all programmers are Nerd. I am a living proof of that. I am a full-action (all-in-one package). I love outdoors, adventure, dance, travel, drones, music, football, tech events, coffee, wine and many other things.
-
-## Roadmap
-
-[![roadmap.sh](https://roadmap.sh/card/wide/67a78362f863343482de8614?variant=dark)](https://roadmap.sh)
-
-<br/>
-
-[![Julio's gitartwork](gitartwork.svg)](https://github.com/julioaranajr)
