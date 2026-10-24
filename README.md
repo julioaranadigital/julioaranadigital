@@ -3,6 +3,7 @@
 ## 💫 About Me
 
 ### Digital Profile to Create AI Content
+#### I’m currently working on **OpenAI,Gemini,Grok,Claude,Llama,DeepSeek,Qwen**
 
 ### **Overview**
 
@@ -90,7 +91,7 @@
 - 😴 I am busy with Cloud Systems Engineering
 - 💻 I am building my personal portafolio **[julioarana-wix-site](https://julioaranajr.wixsite.com/index)**, on the side
 - 👩‍💻 I am learning full stack development from Roadmap.sh
-- 🔭 I’m currently working on **Claude-AI**(Claude is a next generation AI assistant built by Anthropic)
+- 🔭 I’m currently working on **OpenAI,Gemini,Grok,Claude,Llama,DeepSeek,Qwen**
 - 🌱 I’m learning Web technologies, Frontend, Backend, Python.
 - 👯 I’m looking to collaborate on Open source projects, Hackathon and startups
 - 🤔 I’m looking for help with Funding
